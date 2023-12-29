@@ -36,4 +36,4 @@ Make sure you have the following tools installed:
 
 ```bash
 git clone https://github.com/meeyth/Carbon-Footprint-calculator.git
-cd carbon-footprint-calculator
+cd Carbon-Footprint-calculator
